@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "minimist": "^1.2.0"
+  }
+}
